@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"name": "baked speghetti", "price": "$12.50" ,"calories": "105cal"},
+          {"name": "chicken-ravioli", "price": "$13.25" ,"calories": "190cal"},
+          {"name": "pasta", "price": "$9.50" ,"calories": "90cal"}
+    ]
+  }

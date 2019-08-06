@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+          {"name": "Les Omelettes", "price": "$12.50" ,"calories": "110cal"},
+          {"name": "Crispy st bread", "price": "$7.25" ,"calories": "70cal"},
+          {"name": "chesse sandwich", "price": "$12.50" ,"calories": "110cal"}
+    ]
+  }

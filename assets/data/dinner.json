@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"name": "Fried chicken", "price": "$16.50" ,"calories": "200cal"},
+          {"name": "T-Bone steak", "price": "$14.25" ,"calories": "190cal"},
+          {"name": "Turkey scaloppine", "price": "$21.50" ,"calories": "250cal"}
+    ]
+  }
